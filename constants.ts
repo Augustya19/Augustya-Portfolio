@@ -73,22 +73,22 @@ export const PM_CASE_STUDIES: CaseStudy[] = [
   },
   {
     id: 'pm3',
-    title: 'Serenova AI-Powered Personalized Travel Planner',
+    title: 'Serenova: AI-Powered Personalized Travel Planner',
     role: 'Product Owner',
     summary: 'Serenova is a smart travel planning mobile application designed to create highly personalized travel experiences across India.The app generates customized destination and itinerary recommendations based on user preferences such as budget, location, number of travelers, travel month, and interests',
     metric: '+15% Retention',
     tags: ['UI/UX', 'Web Design', 'Discovery'],
     link: 'https://www.notion.so/Serenova-AI-Powered-Personalized-Travel-Planner-2e5be2d7216a8034a3cbdf65ba064ecc?source=copy_link'
   },
-  /* {
+   {
     id: 'pm4',
-    title: 'Community Health Scheduler',
-    role: 'UX Research',
-    summary: 'Designed a scheduling system for a local clinic. Focused on accessibility for elderly patients, resulting in fewer missed appointments and better resource allocation.',
+    title: 'Spotify: Focus Mode Intelligence',
+    role: 'Product Strategy',
+    summary: 'This case study shows how context-aware automation can reduce friction without sacrificing user control. The design prioritizes trust through transparency, quick overrides, and mode locking rather than perfect prediction. By integrating seamlessly into existing Spotify flows, the feature feels product-ready, not conceptual. It demonstrates strong product thinking around AI-driven, low-distraction UX.',
     metric: 'Accessibility Focus',
-    tags: ['Healthcare', 'Desktop', 'Service Design'],
-    link: 'https://notion.so'
-  } */
+    tags: ['Mobile', 'UI Design', 'Research'],
+    link: 'https://www.notion.so/Spotify-Focus-Mode-Intelligence-2ebbe2d7216a80cf8bcee6c78ddf1395?source=copy_link'
+  } 
 ];
 
 export const SKILLS_MARQUEE = [
