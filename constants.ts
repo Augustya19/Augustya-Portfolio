@@ -84,7 +84,7 @@ export const PM_CASE_STUDIES: CaseStudy[] = [
     id: 'pm4',
     title: 'Spotify: Focus Mode Intelligence',
     role: 'Product Strategy',
-    summary: 'This case study shows how context-aware automation can reduce friction without sacrificing user control. The design prioritizes trust through transparency, quick overrides, and mode locking rather than perfect prediction. By integrating seamlessly into existing Spotify flows, the feature feels product-ready, not conceptual. It demonstrates strong product thinking around AI-driven, low-distraction UX.',
+    summary: 'This case study explores how Spotify could automatically adapt music based on what the user is doing—coding, reading, or relaxing. The focus is on designing a simple, non-intrusive UI that keeps users in flow while still giving them control.',
     metric: 'Accessibility Focus',
     tags: ['Mobile', 'UI Design', 'Research'],
     link: 'https://www.notion.so/Spotify-Focus-Mode-Intelligence-2ebbe2d7216a80cf8bcee6c78ddf1395?source=copy_link'
