@@ -76,7 +76,7 @@ export const PM_CASE_STUDIES: CaseStudy[] = [
     title: 'Serenova: AI-Powered Personalized Travel Planner',
     role: 'Product Owner',
     summary: 'Serenova is a smart travel planning mobile application designed to create highly personalized travel experiences across India.The app generates customized destination and itinerary recommendations based on user preferences such as budget, location, number of travelers, travel month, and interests',
-    metric: '+15% Retention',
+    metric: '',
     tags: ['UI/UX', 'Web Design', 'Discovery'],
     link: 'https://www.notion.so/Serenova-AI-Powered-Personalized-Travel-Planner-2e5be2d7216a8034a3cbdf65ba064ecc?source=copy_link'
   },
@@ -85,7 +85,7 @@ export const PM_CASE_STUDIES: CaseStudy[] = [
     title: 'Spotify: Focus Mode Intelligence',
     role: 'Product Strategy',
     summary: 'This case study explores how Spotify could automatically adapt music based on what the user is doing—coding, reading, or relaxing. The focus is on designing a simple, non-intrusive UI that keeps users in flow while still giving them control.',
-    metric: 'Accessibility Focus',
+    metric: '',
     tags: ['Mobile', 'UI Design', 'Research'],
     link: 'https://www.notion.so/Spotify-Focus-Mode-Intelligence-2ebbe2d7216a80cf8bcee6c78ddf1395?source=copy_link'
   } 
